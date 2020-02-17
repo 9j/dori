@@ -2,4 +2,4 @@
 
 도리를 찾아주세요
 
-https://0vv.github.io/dori/index.html
+https://9j.github.io/dori/index.html
